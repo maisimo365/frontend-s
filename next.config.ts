@@ -24,7 +24,7 @@ const nextConfig: NextConfig = {
       {
         source: '/api/:path*',
         // CAMBIO IMPORTANTE AQUÍ:
-        destination: 'https://backend-s-8.onrender.com/api/:path*', 
+        destination: 'https://backend-s-4.onrender.com//api/:path*', 
       },
     ];
   },

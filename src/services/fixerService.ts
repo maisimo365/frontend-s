@@ -1,6 +1,6 @@
 import { ApiResponse, Fixer, Job, JobWithFixers } from '@/types/fixer';
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://backend-s-8.onrender.com/api';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://backend-s-4.onrender.com/api';
 
 export const fixerService = {
   /**
